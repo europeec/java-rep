@@ -7,6 +7,7 @@
   <summary>Задача:</summary>
     - Привет
     - ок?
+    
 </details>
 
 
