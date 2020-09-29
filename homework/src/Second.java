@@ -16,7 +16,7 @@ public class Second {
             boolean isSkipScan = false;
             Ex a = new Ex();
             switch (pos){
-//              Фибоначчи
+//              Фибоначчи 
                 case 0:
                     System.out.println("Для выхода введите любое отрицательное число,\nчтобы вернуться в стартовое меню введите 0");
                     System.out.println("Введите количество элементов: ");
