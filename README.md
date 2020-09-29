@@ -17,6 +17,8 @@
     
 </details>
 
+____
+
 ### [2 задание `(Числа Фибоначчи и Числа-Вампира)`](https://github.com/europeec/java-rep/blob/master/homework/src/Second.java)
 <details>
   <summary>Требования к заданию:</summary>
