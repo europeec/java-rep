@@ -24,6 +24,8 @@ public class Second {
 
                     if (count > 0){
                         a.fib(count);
+                        pos = 0;
+                        isSkipScan = true;
                     } else if (count == 0){
                         pos = 2;
                         isSkipScan = true;
