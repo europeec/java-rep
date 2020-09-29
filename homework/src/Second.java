@@ -83,6 +83,7 @@ class Ex {
         return empty;
     }
 
+//  Число-вампира
     public void vampire(){
         int index = 0;
         for (int i = 1000; i < 10000; i++){
@@ -93,13 +94,16 @@ class Ex {
 
             String res = check(th,hd,dz,un,i);
             if (res != null){
+//              добавляем в массив с результатами
                 vampireArray[index] = res;
                 index++;
             }
         }
     }
-
+//  Проверка
     private String check(int int11, int int12, int int21, int int22, int num){
+//      перебор всех вариантов
+
         int num1 = ec(int11,int12);
         int num2 = ec(int21,int22);
 
@@ -190,6 +194,7 @@ class Ex {
         return null;
     }
 
+//  Перевод в человеческие циферки
     private int ec(int dozens, int units) {
 //        easyConverter ec(2,1) -> 21
         return dozens * 10 + units;
