@@ -66,7 +66,11 @@ public class Sixth {
         } else {
             int ones = num % 10;
             int dozen = num / 10;
-            res = dozens[dozen - 1] + otherDigits[ones - 1];
+            if (ones == 0) {
+                res = dozens[dozen - 1];
+            } else {
+                res = dozens[dozen - 1] + otherDigits[ones - 1];
+            }
         }
 
         return res;
