@@ -75,6 +75,8 @@ ____
     
 </details>
 
+____
+
 ### [6 задание `(Перевод чисел в пропись)`](https://github.com/europeec/java-rep/blob/master/homework/src/Sixth.java)
 <details>
   <summary>Требования к заданию:</summary>
@@ -85,9 +87,11 @@ ____
      Диапазон чисел: unsigned long 
     
 </details>
+
 ____
 ###### ...
 ____
+
 ##### [Вконтакте](https://vk.com/urtomorrow) 
 ###### Сделано студентом НГТУ им.Алексеева
 ###### Юдин Дмитрий, 19-САИ
