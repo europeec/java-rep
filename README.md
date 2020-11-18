@@ -75,6 +75,16 @@ ____
     
 </details>
 
+### [6 задание `(Перевод чисел в пропись)`](https://github.com/europeec/java-rep/blob/master/homework/src/Sixth.java)
+<details>
+  <summary>Требования к заданию:</summary>
+  
+     Написать программу, которая принимает на вход число в виде строки* и 
+     выводит расшифровку этого числа словами.
+     Пример: 256 - two hundread fifty six
+     Диапазон чисел: unsigned long 
+    
+</details>
 ____
 ###### ...
 ____
