@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Sixth {
 //    сотни, тысячи..
-    private static  final String[] hundredAndMore = {"hundred ", "thousand ", "million ", "billion "};
+    private static  final String[] hundredAndMore = {"hundred ", "thousand ", "million ", "billion ", "thousand-billion "};
 //    10, 20..
     private static  final String[] dozens = {"ten ", "twenty ", "thirty ", "forty ", "fifty ", "sixty ", "seventy ", "eighty ", "ninety "};
 //    1..19
